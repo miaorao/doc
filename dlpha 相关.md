@@ -21,7 +21,7 @@ https://www.chainnews.com/news/737522892553.htm
 
 ### 示意图: https://drive.google.com/file/d/1lWgfyhlhVpRAMuafRHYHteFv6S2TA9oG/view?usp=sharing
 
-### 步骤说明
+### 步骤说明:
 
 1. 每一个地址通过该系统去Sakeperp里开仓都会创建一个新的开仓合约，通过该开仓合约对SakePerp进行OpenPosition, ClosePosition, AddMargin, RemoveMargin等操作。
 
